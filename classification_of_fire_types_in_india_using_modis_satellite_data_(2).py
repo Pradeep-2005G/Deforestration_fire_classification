@@ -513,7 +513,7 @@ X
 
 y
 
-##!pip install -U imbalanced-learn
+!pip install -U imbalanced-learn
 from imblearn.over_sampling import SMOTE
 
 # Initialize SMOTE #week 2
